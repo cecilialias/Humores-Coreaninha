@@ -1,2 +1,2 @@
-# https://cecilialias.github.io/humores-projeto01-coreaninha/
+# https://cecilialias.github.io/humores-coreaninha/
 projeto 01 - modulo 2
